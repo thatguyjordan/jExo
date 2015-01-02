@@ -1,0 +1,92 @@
+Upgrades: 
+
+Dart launcher:
+ use speed
+ damage
+ no gravity                
+ high velocity bullets
+ multi shot
+ piercing shots
+
+Minigun:      Complete next.
+ damage but minus accuracy            Done
+ use speed                Done
+ increased accuracy              Done
+ elemental upgrade (causes debuffs)          
+ chance to not consume ammo            
+ crit strike chance              
+ double shots                Done
+ fragmentation shots              
+ burst fire but remove auto reuse          Done
+ dam and speed               
+ dam and consume ammo             
+ double and damage               
+ double and accuracy              
+ accuracy and speed
+ accuracy and fragment
+ crit and speed
+ crit and dam
+ crit and burst
+ element and speed
+ element and consume ammo
+
+Flamethrower:
+ damage but minus burst count
+ chance to not consume ammo
+ crit strike
+ use speed
+ higher burst count
+ titanium fuel tank (can use highest tier fuels)
+ short distance spray but highest damage (ammo adds to the damage)
+
+Digging Glove/Claw:
+ faster speed
+ high pick power
+ axe ability
+ higher axe power
+
+Claw:
+ swing speed
+ damage
+ knockback
+ chance for instakill (will not work on bosses)
+ chance to fire claw projectiles
+ debuffs (may be a choice between a few)
+
+Blade Launcher:
+ use speed
+ homing (may be upgraded to bounce and home back in on the npc)
+ no gravity
+ damage
+ crit strike chance
+ higher penetration
+
+Rocket Launcher:
+ damage
+ crit strike chance
+ mirv rockets
+ use speed
+ rocket speed
+ highest damage but remove homing functionality
+ block breaking but can damage player and npcs
+
+Armour:
+x defence
+x knockback resistance
+ range/magic/melee damage
+ mana reduction
+ wings (small flight)
+v negate fall damage
+ higher jump
+v double jumps
+x movement speed
+v night vision
+v spelunker
+ aggro count
+ higher mob spawns
+v water/lava walk
+ lava charm
+
+ v is partly done
+ x is done
+ o is removed or changed i think
