@@ -12,7 +12,7 @@
 	
 	"recipes":
 	[{
-		"items": { "Dirt Block": 1 }, 
+		"items": { "Basic Alloy": 10 }, 
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},

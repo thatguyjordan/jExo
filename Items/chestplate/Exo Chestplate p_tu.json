@@ -1,4 +1,5 @@
 {
+	"code": "Items.Chestplate.tu",
 	"displayName": "Exo Chestplate",
 	"size": [20,20],
 	"maxStack": 1,
@@ -16,7 +17,7 @@
 
 	"recipes":
 	[{
-		"items": { "Dirt Block": 1 }, 
+		"items": { "Exo Chestplate": 1 }, "items": { "Turtle Plate": 1 }, 
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},
