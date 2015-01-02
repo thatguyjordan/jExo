@@ -1,0 +1,19 @@
+{
+	"displayName": "Cobalt Plating",
+	"size": [16,16],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Can be modified onto Exo armour",
+	
+	"recipes":
+	[{
+		"items": { "Cobalt Bar": 15}, 
+		"tiles": [ "Anvil" ],
+		"creates": 1
+	}]
+}

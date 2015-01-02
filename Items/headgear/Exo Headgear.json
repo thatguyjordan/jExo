@@ -1,0 +1,23 @@
+{
+	"displayName": "Exo Headgear",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 1,		
+	"tooltip": "Can be modified at a Modification Table.",
+	"defense": 0,	
+	"armorHead": true,
+	"hairType": 0,
+	"setName": "exo",
+	
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 }, 
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 1	
+	}]		
+}

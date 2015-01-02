@@ -1,0 +1,27 @@
+{
+	"code": "ExoMinigun",
+	"displayName": "Exo Minigun",
+	"size": [52,30],
+	"maxStack": 1,
+	"value": [0,0,10,0],	
+	"rare": 3,
+	"tooltip": ["Can be tinkered with multiple upgrades", "Upgrades: Minigun"],
+	"useStyle": 5,
+	"useAnimation": 14,
+	"useTime": 14,
+	"damage": 14,
+	"knockBack": 2,
+	"useSound": 11,
+	"autoReuse": true,
+	"noMelee": true,
+	"ranged": true,	
+	"shoot": 10,
+	"shootSpeed": 7,
+	"useAmmo": 14,
+
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 1	
+	}]
+}
