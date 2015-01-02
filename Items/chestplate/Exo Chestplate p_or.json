@@ -17,8 +17,8 @@
 
 	"recipes":
 	[{
-		"items": { "Exo Chestplate": 1 }, "items": { "Orichalcum Plate": 1 }, 
-		"tiles": [ "Anvil" ], 
+		"items": { "jExo:Exo Chestplate": 1 }, "items": { "jExo:Orichalcum Plate": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{

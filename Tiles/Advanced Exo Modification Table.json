@@ -1,0 +1,20 @@
+{
+	"displayName": "Advanced Exo Modification Table",
+	"size": [3,2],
+	"frameWidth": 16,
+	"frameHeight": 16,
+	"frameImportant": true,
+	"solid": false,
+	"blocksLight": false,
+	"blocksSun": false,
+	"mergeDirt": false,
+	"placementConditions": "flatGround",
+	"placementOrigin": [0,1],	
+	"drop": "jExo:Advanced Exo Modification Table",
+	"breaksByPick": true,
+	"dust": 0,
+	"sound": 1,
+	"soundGroup": 21,
+	"mapColor": [30, 46, 197],
+	"mapHoverText": " Advanced Exo Modification Table"	
+}

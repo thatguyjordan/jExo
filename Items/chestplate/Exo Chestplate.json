@@ -14,7 +14,7 @@
 
 	"recipes":
 	[{
-		"items": { "Basic Alloy": 20 }, 
+		"items": { "jExo:Basic Alloy": 20 }, 
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},
