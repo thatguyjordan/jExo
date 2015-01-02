@@ -16,7 +16,7 @@
 
 	"recipes":
 	[{
-		"items": { "Dirt Block": 1 }, 
+		"items": { "Exo Chestplate": 1 }, "items": { "Orichalcum Plate": 1 }, 
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},
