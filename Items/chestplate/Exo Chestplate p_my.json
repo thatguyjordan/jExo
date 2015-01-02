@@ -1,4 +1,5 @@
 {
+	"code": "Items.Chestplate.my",
 	"displayName": "Exo Chestplate",
 	"size": [20,20],
 	"maxStack": 1,

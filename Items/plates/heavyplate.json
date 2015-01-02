@@ -1,0 +1,34 @@
+{
+	"displayName": "Basic Alloy",
+	"size": [16,16],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "The basic component in Exo equipment.",
+	
+	"recipes":
+	[{
+		"items": { "Silver Bar": 1 }, { "Iron Bar": 1 },
+		"tiles": [ "Anvil" ],
+		"creates": 1
+		},
+		{
+		"items": { "Tungsten Bar": 1 }, { "Iron Bar": 1 },
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Silver Bar": 1 }, { "Lead Bar": 1 },
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Tungsten Bar": 1 }, { "Lead Bar": 1 },
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	}]
+}
