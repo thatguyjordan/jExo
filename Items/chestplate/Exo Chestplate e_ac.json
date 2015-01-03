@@ -4,7 +4,7 @@
 	"maxStack": 1,
 	"value": [0,0,10,0],
 	"rare": 1,	
-	"tooltip": "Knockback Resistance",
+	"tooltip": "Aggravating",
 	"defense": 0,
 	"armorBody": true,
 	"hasHands": false,
@@ -16,12 +16,12 @@
 
 	"recipes":
 	[{
-		"items": { "jExo:Exo Chestplate": 1, "jExo:Heavy Plate": 1 }, 
+		"items": { "jExo:Exo Chestplate": 1, "jExo:Aggression Module": 1 }, 
 		"tiles": [ "jExo:Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
-		"items": { "jExo:Exo Chestplate": 1, "jExo:Heavy Plate": 1 }, 
+		"items": { "jExo:Exo Chestplate": 1, "jExo:Aggression Module": 1 }, 
 		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
