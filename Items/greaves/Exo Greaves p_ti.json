@@ -13,9 +13,9 @@
 	
 	"recipes":
 	[{
-		"items": { "Dirt Block": 1 }, 
-		"tiles": [ "Anvil" ], 
-		"creates": 1	
+		"items": { "jExo:Exo Greaves": 1 }, "items": { "jExo:Titanium Plate": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1		
 	},
 	{
 		"items": { "Dirt Block": 1 }, 
