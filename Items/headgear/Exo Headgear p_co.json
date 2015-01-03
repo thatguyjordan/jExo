@@ -15,8 +15,8 @@
 	
 	"recipes":
 	[{
-		"items": { "Dirt Block": 1 }, 
-		"tiles": [ "Anvil" ], 
+		"items": { "jExo:Exo Headgear": 1 }, "items": { "jExo:Cobalt Plate": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
