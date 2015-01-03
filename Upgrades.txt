@@ -8,16 +8,16 @@ Dart launcher:
  multi shot
  piercing shots
 
-Minigun:      Complete next.
- damage but minus accuracy            Done
- use speed                Done
- increased accuracy              Done
+Minigun: 
+x damage but minus accuracy    
+x use speed     
+x increased accuracy     
  elemental upgrade (causes debuffs)          
  chance to not consume ammo            
  crit strike chance              
- double shots                Done
+x double shots            
  fragmentation shots              
- burst fire but remove auto reuse          Done
+x burst fire but remove auto reuse 
  dam and speed               
  dam and consume ammo             
  double and damage               
@@ -73,19 +73,18 @@ Rocket Launcher:
 Armour:
 x defence
 x knockback resistance
-x range/magic/melee damage
-x mana reduction
- wings (small flight)
+v range/magic/melee damage
+v mana reduction
+v rocket boots
 v negate fall damage
-x higher jump
+v springy
 v double jumps
 x movement speed
 v night vision
 v spelunker
-x aggro count
- higher mob spawns
+v aggro count
 v water/lava walk
- lava charm
+v lava charm
 
  v is partly done
  x is done
