@@ -73,16 +73,16 @@ Rocket Launcher:
 Armour:
 x defence
 x knockback resistance
- range/magic/melee damage
- mana reduction
+x range/magic/melee damage
+x mana reduction
  wings (small flight)
 v negate fall damage
- higher jump
+x higher jump
 v double jumps
 x movement speed
 v night vision
 v spelunker
- aggro count
+x aggro count
  higher mob spawns
 v water/lava walk
  lava charm
