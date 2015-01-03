@@ -17,7 +17,7 @@
 
 	"recipes":
 	[{
-		"items": { "jExo:Exo Chestplate": 1 }, "items": { "jExo:Hellstone Plate": 1 }, 
+		"items": { "jExo:Exo Chestplate": 1, "jExo:Hellstone Plate": 1 }, 
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},
