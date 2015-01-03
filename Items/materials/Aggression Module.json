@@ -1,0 +1,19 @@
+{
+	"displayName": "Aggression Module",
+	"size": [16,24],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "A module that causes Aggresion and a higher Spawn Rate.",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Advanced Alloy": 5, "Hallowed Bar": 20 },
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
+	}]
+}

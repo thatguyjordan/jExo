@@ -1,0 +1,24 @@
+{
+	"displayName": "Advanced Alloy",
+	"size": [16,16],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "An advanced material for creating Exo equipment.",
+	
+	"recipes":
+	[{
+		"items": { "Palladium Bar": 1, "Pixie Dust": 1 },
+		"tiles": [ "Anvil" ],
+		"creates": 1
+		},
+		{
+		"items": { "Cobalt Bar": 1, "Pixie Dust": 1 },
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	}]
+}

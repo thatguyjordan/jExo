@@ -1,0 +1,24 @@
+{
+	"displayName": "Exo Modification Table",
+	"size": [32,32],
+	"maxStack": 99,
+	"value": [0,0,0,0],	
+	"rare": 1,
+	"useStyle": 1,
+	"useAnimation": 15,
+	"useTime": 10,
+	"autoReuse": true,
+	"useTurn": true,
+	"createTile": "jExo:Exo Modification Table",
+	"tooltip": [
+		"Modify Exo items with this basic table.",
+	],
+	"consumable": true,
+	
+	"recipes":
+	[{
+		"items": { "Work Bench": 1, "jExo:Basic Alloy": 20 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}

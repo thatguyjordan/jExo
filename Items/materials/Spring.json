@@ -1,0 +1,34 @@
+{
+	"displayName": "Spring",
+	"size": [24,24],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Can be modified onto Exo armour",
+	
+	"recipes":
+	[{
+		"items": { "Iron Bar": 5}, 
+		"tiles": [ "jExo:Exo Modification Table" ],
+		"creates": 1
+	},
+	{
+		"items": { "Lead Bar": 5}, 
+		"tiles": [ "jExo:Exo Modification Table" ],
+		"creates": 1
+	},
+	{
+		"items": { "Iron Bar": 5}, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
+	},
+	{
+		"items": { "Lead Bar": 5}, 
+		"tiles": [ "jExo: Advanced Exo Modification Table" ],
+		"creates": 1
+	}]
+}
