@@ -1,0 +1,24 @@
+{
+	"displayName": "Magic Module",
+	"size": [24,24],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Can be modified onto Exo armour",
+	
+	"recipes":
+	[{
+		"items": { "Meteorite Bar": 20, "jExo:Basic Alloy":10 }, 
+		"tiles": [ "jExo:Exo Modification Table" ],
+		"creates": 1
+	},
+	(
+		"items": { "Meteorite Bar": 20, "jExo:Basic Alloy":10 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
+	}]
+}

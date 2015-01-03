@@ -1,0 +1,19 @@
+{
+	"displayName": "X-Ray Lenses",
+	"size": [24,12],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Lenses that gives X-Ray vision.",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Advanced Alloy": 10, "Spelunker Potion": 3, "Ectoplasm": 20 },
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
+	}]
+}

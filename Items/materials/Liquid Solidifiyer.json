@@ -1,0 +1,24 @@
+{
+	"displayName": "Liquid Solidifiyer",
+	"size": [16,24],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "A module that allows you to walk on liquid.",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Basic Alloy": 5, "Water Walking Potion": 3 },
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
+	},
+	{
+		"items": { "jExo:Basic Alloy": 5, "Water Walking Potion": 3 },
+		"tiles": [ "jExo:Exo Modification Table" ],
+		"creates": 1
+	}]
+}
