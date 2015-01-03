@@ -12,22 +12,22 @@
 	
 	"recipes":
 	[{
-		"items": { "Silver Bar": 1 }, { "Iron Bar": 1 },
+		"items": { "Silver Bar": 1, "Iron Bar": 1 },
 		"tiles": [ "Anvil" ],
 		"creates": 1
 		},
 		{
-		"items": { "Tungsten Bar": 1 }, { "Iron Bar": 1 },
+		"items": { "Tungsten Bar": 1, "Iron Bar": 1 },
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},
 	{
-		"items": { "Silver Bar": 1 }, { "Lead Bar": 1 },
+		"items": { "Silver Bar": 1, "Lead Bar": 1 },
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},
 	{
-		"items": { "Tungsten Bar": 1 }, { "Lead Bar": 1 },
+		"items": { "Tungsten Bar": 1, "Lead Bar": 1 },
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	}]

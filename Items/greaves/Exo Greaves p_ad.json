@@ -13,7 +13,7 @@
 	
 	"recipes":
 	[{
-		"items": { "jExo:Exo Greaves": 1 }, "items": { "jExo:Adamantite Plate": 1 }, 
+		"items": { "jExo:Exo Greaves": 1, "jExo:Adamantite Plate": 1 }, 
 		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},

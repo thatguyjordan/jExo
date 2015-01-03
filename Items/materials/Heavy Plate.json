@@ -12,12 +12,12 @@
 	
 	"recipes":
 	[{
-		"items": { "Obsidian": 40 }, { "Iron Bar": 5 },
+		"items": { "Obsidian": 40, "Iron Bar": 5 },
 		"tiles": [ "Anvil" ],
 		"creates": 1
 	},
 	{
-		"items": { "Obsidian": 40 }, { "Lead Bar": 5 },
+		"items": { "Obsidian": 40, "Lead Bar": 5 },
 		"tiles": [ "Anvil" ], 
 		"creates": 1
 	}]
