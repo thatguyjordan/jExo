@@ -20,5 +20,15 @@
 		"items": { "Iron Bar": 15, "Wire": 15}, 
 		"tiles": [ "jExo:Advanced Exo Modification Table" ],
 		"creates": 1
+	},
+	{
+		"items": { "Lead Bar": 15, "Wire": 15}, 
+		"tiles": [ "jExo:Exo Modification Table" ],
+		"creates": 1
+	},
+	{
+		"items": { "Lead Bar": 15, "Wire": 15}, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
 	}]
 }

@@ -1,0 +1,28 @@
+{
+	"code": "Items.Chestplate.be",
+	"displayName": "Exo Chestplate",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 1,	
+	"tooltip": "Beetle Plating, Aggravating, Heat Exchanger",
+	"defense": 28,
+	"armorBody": true,
+	"hasHands": false,
+	"setName": "exo",
+	"texture": "Items/chestplate/Exo Chestplate",
+	"textureArm": "Items/chestplate/Exo Chestplate_Arm",
+	"textureBody": "Items/chestplate/Exo Chestplate_Body",
+	"textureFemale": "Items/chestplate/Exo Chestplate_FemaleBody",
+
+	"recipes":
+	[{
+		"items": { "jExo:Exo Chestplate": 1, "jExo:Beetle Plate": 1 , "jExo:Aggression Module": 1, "jExo:Temperature Regulator": 1},
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1		
+	},
+	{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 1	
+	}]
+}

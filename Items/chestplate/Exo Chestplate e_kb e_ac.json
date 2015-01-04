@@ -9,6 +9,8 @@
 	"armorBody": true,
 	"hasHands": false,
 	"setName": "exo",
+	"texture": "Items/chestplate/Exo Chestplate",
+	"textureBody": "Items/chestplate/Exo Chestplate_Body",
 	"textureArm": "Items/chestplate/Exo Chestplate_Arm",
 	"textureFemale": "Items/chestplate/Exo Chestplate_FemaleBody",
 

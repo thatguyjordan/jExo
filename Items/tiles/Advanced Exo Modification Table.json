@@ -10,9 +10,7 @@
 	"autoReuse": true,
 	"useTurn": true,
 	"createTile": "jExo:Advanced Exo Modification Table",
-	"tooltip": [
-		"Modify Exo items with this Advanced table.",
-	],
+	"tooltip": "Modify Exo items with this Advanced table.",
 	"consumable": true,
 	
 	"recipes":

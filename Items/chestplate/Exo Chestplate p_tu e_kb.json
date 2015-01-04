@@ -1,10 +1,11 @@
 {
+	
 	"displayName": "Exo Chestplate",
 	"size": [20,20],
 	"maxStack": 1,
 	"value": [0,0,10,0],
 	"rare": 1,	
-	"tooltip": ["Turtle Plating", "Knockback Resistance"],
+	"tooltip": "Turtle Plating, Knockback Resistance",
 	"defense": 25,
 	"armorBody": true,
 	"hasHands": false,
@@ -16,12 +17,12 @@
 
 	"recipes":
 	[{
-		"items": { "Dirt Block": 1 }, 
+		"items": { "Dirt Block": 1 },
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	},
 	{
-		"items": { "Dirt Block": 1 }, 
+		"items": { "Dirt Block": 1 },
 		"creates": 1	
 	}]
 }

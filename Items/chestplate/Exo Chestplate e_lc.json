@@ -16,7 +16,7 @@
 
 	"recipes":
 	[{
-		"items": { "jExo:Exo Chestplate": 1, "jExo:Temperature Regulator": 1 }, 
+		"items": { "jExo:Exo Chestplate": 1, "jExo:Temperature Regulator": 1 },
 		"tiles": [ "jExo:Exo Modification Table" ], 
 		"creates": 1	
 	},
