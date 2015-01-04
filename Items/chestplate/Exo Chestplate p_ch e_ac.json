@@ -17,7 +17,7 @@
 
 	"recipes":
 	[{
-		"items": { "jExo:Exo Chestplate": 1, "jExo:Chlorophyte Plate": 1 , "jExo:Aggression Module": 1},
+		"items": { "jExo:Exo Chestplate p_ch": 1, "jExo:Aggression Module": 1 }, 
 		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},

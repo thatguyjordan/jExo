@@ -17,8 +17,13 @@
 
 	"recipes":
 	[{
-		"items": { "Dirt Block": 1 , "jExo:Temperature Regulator": 1},
-		"tiles": [ "Anvil" ], 
+		"items": { "jExo:Exo Chestplate p_ch e_lc": 1, "jExo:Heavy Plate": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Chestplat p_ch e_kb": 1, "jExo:Temperature Regulator": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
