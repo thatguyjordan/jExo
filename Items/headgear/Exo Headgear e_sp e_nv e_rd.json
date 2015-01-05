@@ -1,0 +1,48 @@
+{
+	"displayName": "Exo Headgear",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 1,		
+	"tooltip": "Spelunker, Night Vision, Ranged Upgrade",
+	"defense": 0,	
+	"armorHead": true,
+	"hairType": 0,
+	"setName": "exo",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Exo Headgear e_sp e_rd": 1, "jExo:Night Lenses": 1 }, 
+		"tiles": [ "jExo:Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Headgear e_sp e_rd": 1, "jExo:Night Lenses": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Headgear e_nv e_sp": 1, "jExo:Ranged Module": 1 }, 
+		"tiles": [ "jExo:Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Headgear e_nv e_sp": 1, "jExo:Ranged Module": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Headgear e_nv e_rd": 1, "jExo:X-Ray Lenses": 1 }, 
+		"tiles": [ "jExo:Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Headgear e_nv e_rd": 1, "jExo:X-Ray Lenses": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 1	
+	}]		
+}
