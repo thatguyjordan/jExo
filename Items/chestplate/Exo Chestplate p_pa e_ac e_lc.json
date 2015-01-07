@@ -18,12 +18,12 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Chestplate p_pa e_ac": 1, "jExo:Temperature Regulator": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Chestplate p_pa e_lc": 1, "jExo:Aggression Module": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{

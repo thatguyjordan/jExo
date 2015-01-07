@@ -1,3 +1,4 @@
+
 {
 	"displayName": "Exo Chestplate",
 	"size": [20,20],
@@ -17,22 +18,22 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Chestplate e_ac": 1, "jExo:Temperature Regulator": 1 }, 
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Chestplate e_ac": 1, "jExo:Temperature Regulator": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
+		"create": 1	
+	},
+	{
+		"items": { "jExo:Exo Chestplate e_lc": 1, "jExo:Aggression Module": 1 }, 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Chestplate e_lc": 1, "jExo:Aggression Module": 1 }, 
-		"tiles": [ "jExo:Exo Modification Table" ], 
-		"creates": 1	
-	},
-	{
-		"items": { "jExo:Exo Chestplate e_lc": 1, "jExo:Aggression Module": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{

@@ -16,7 +16,7 @@ All suffixes prefixed with p_ defines the exo armour being plated. Shit gets dis
 	"  			 " p_co - cobalt base
 
 
-	"   			 " p_ha - hallowed base
+	"   		 " p_ha - hallowed base
 
 
 	"			 " p_he - hellstone base
@@ -44,10 +44,11 @@ All suffixes prefixed with p_ defines the exo armour being plated. Shit gets dis
 
 e_ - effects
 
-	e_kb - knockback resistance
-	e_ac - aggro count
-	e_lc - lava charm
+	e_kb - knockback resistance (Complete knockback resist)
+	e_ac - aggro count (Increases mob spawns and increases aggro)
+	e_lc - lava charm (10 secs lava immune) 
 
 
 108 jsons will be required.	
 
+118 NEAL, WHAT KIND OF MATHS IS THIS.
