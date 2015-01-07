@@ -75,7 +75,7 @@ namespace jExo
             {
                 player.doubleJump = true;
             }
-            if (player.armor[2].tooltip.Contains("Springy") && player.armor[2].name.Contains("Exo Greaves"))
+            if (player.armor[2].tooltip.Contains("Jump Boost") && player.armor[2].name.Contains("Exo Greaves"))
             {
                 player.jumpBoost = true;
             }
