@@ -6,7 +6,7 @@
 	"value": [0,0,10,0],
 	"rare": 4,		
 	"tooltip": "Palladium Plating",
-	"defense": 0,	
+	"defense": 9,	
 	"armorHead": true,
 	"hairType": 0,
 	"texture": "Items/headgear/Exo Headgear",

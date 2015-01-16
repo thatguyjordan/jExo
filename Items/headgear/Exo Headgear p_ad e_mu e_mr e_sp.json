@@ -1,0 +1,26 @@
+{
+	"code": "ExoHeadgearp_ad",
+	"displayName": "Exo Headgear",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 4,		
+	"tooltip": "Adamantite Plating, Magic Upgrade, Mana Reduction, Spelunker",
+	"defense": 0,	
+	"armorHead": true,
+	"hairType": 0,
+	"texture": "Items/headgear/Exo Headgear",
+	"textureHead": "Items/headgear/Exo Headgear_Head",
+	"setName": "exo",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Exo Headgear": 1, "jExo:Adamantite Plate": 1 , "jExo:Magic Module": 1, "jExo:Mana Module": 1, "jExo:X-Ray Lenses": 1}, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 1	
+	}]		
+}
