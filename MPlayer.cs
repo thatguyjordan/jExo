@@ -50,7 +50,7 @@ namespace jExo
             }
             if (player.armor[2].tooltip.Contains("Movement Speed") && player.armor[2].name.Contains("Exo Greaves"))
             {
-                if (player.armor[2].tooltip.Contains("Chlorophyte Plating") || player.armor[2].tooltip.Contains("Spectre Plating") || player.armor[2].tooltip.Contains("Shroomite Plating") || player.armor[2].tooltip.Contains("Turtle Plating") || player.armor[2].tooltip.Contains("Beetle Plating"))
+                if (player.armor[2].tooltip.Contains("Nava Shield Plating") || player.armor[2].tooltip.Contains("Spectre Plating") || player.armor[2].tooltip.Contains("Shroomite Plating") || player.armor[2].tooltip.Contains("Turtle Plating") || player.armor[2].tooltip.Contains("Beetle Plating"))
                 {
                     player.moveSpeed += 0.4f;
                 }
@@ -81,7 +81,7 @@ namespace jExo
             }
             if (player.armor[0].tooltip.Contains("Ranged Upgrade") && player.armor[0].name.Contains("Exo Helmet"))
             {
-                if (player.armor[0].tooltip.Contains("Chlorophyte Plating") || player.armor[0].tooltip.Contains("Spectre Plating") || player.armor[0].tooltip.Contains("Shroomite Plating") || player.armor[0].tooltip.Contains("Turtle Plating") || player.armor[0].tooltip.Contains("Beetle Plating"))
+                if (player.armor[0].tooltip.Contains("Nava Shield Plating") || player.armor[0].tooltip.Contains("Spectre Plating") || player.armor[0].tooltip.Contains("Shroomite Plating") || player.armor[0].tooltip.Contains("Turtle Plating") || player.armor[0].tooltip.Contains("Beetle Plating"))
                 {
                     player.rangedCrit += 15;
                     player.rangedDamage += 0.15f;
@@ -96,14 +96,14 @@ namespace jExo
             }
             if (player.armor[0].tooltip.Contains("Magic Upgrade") && player.armor[0].name.Contains("Exo Helmet"))
             {
-                if (player.armor[0].tooltip.Contains("Chlorophyte Plating") || player.armor[0].tooltip.Contains("Spectre Plating") || player.armor[0].tooltip.Contains("Shroomite Plating") || player.armor[0].tooltip.Contains("Turtle Plating") || player.armor[0].tooltip.Contains("Beetle Plating"))
+                if (player.armor[0].tooltip.Contains("Nava Shield Plating") || player.armor[0].tooltip.Contains("Spectre Plating") || player.armor[0].tooltip.Contains("Shroomite Plating") || player.armor[0].tooltip.Contains("Turtle Plating") || player.armor[0].tooltip.Contains("Beetle Plating"))
                 {
                     player.statManaMax2 += 40;
                     player.manaCost -= 0.10f;
                     player.magicCrit += 12;
                     player.magicDamage += 0.18f;
                 }
-                else if (player.armor[0].tooltip.Contains("Cobalt Plating") || player.armor[0].tooltip.Contains("Palladium Plating") || player.armor[0].tooltip.Contains("Hellstone Plating"))
+                else if (player.armor[0].tooltip.Contains("Advanced Plating") || player.armor[0].tooltip.Contains("Palladium Plating") || player.armor[0].tooltip.Contains("Hellstone Plating"))
                 {
                     player.manaCost -= 0.06f;
                     player.magicCrit += 5;
@@ -119,13 +119,13 @@ namespace jExo
             }
             if (player.armor[0].tooltip.Contains("Melee Upgrade") && player.armor[0].name.Contains("Exo Helmet"))
             {
-                if (player.armor[0].tooltip.Contains("Chlorophyte Plating") || player.armor[0].tooltip.Contains("Spectre Plating") || player.armor[0].tooltip.Contains("Shroomite Plating") || player.armor[0].tooltip.Contains("Turtle Plating") || player.armor[0].tooltip.Contains("Beetle Plating"))
+                if (player.armor[0].tooltip.Contains("Nava Shield Plating") || player.armor[0].tooltip.Contains("Spectre Plating") || player.armor[0].tooltip.Contains("Shroomite Plating") || player.armor[0].tooltip.Contains("Turtle Plating") || player.armor[0].tooltip.Contains("Beetle Plating"))
                 {
                     player.meleeSpeed += 0.08f;
                     player.meleeCrit += 15;
                     player.meleeDamage += 0.18f;
                 }
-                else if (player.armor[0].tooltip.Contains("Cobalt Plating") || player.armor[0].tooltip.Contains("Palladium Plating") || player.armor[0].tooltip.Contains("Hellstone Plating"))
+                else if (player.armor[0].tooltip.Contains("Advanced Plating") || player.armor[0].tooltip.Contains("Palladium Plating") || player.armor[0].tooltip.Contains("Hellstone Plating"))
                 {
                     player.meleeSpeed += 0.05f;
                     player.meleeCrit += 8;

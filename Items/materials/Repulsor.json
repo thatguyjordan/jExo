@@ -1,0 +1,24 @@
+{
+	"displayName": "Repulsor",
+	"size": [16,20],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Allows for Double Jumping",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Spring": 5, "Cloud in a Bottle":1 }, 
+		"tiles": [ "jExo:Exo Modification Table" ],
+		"creates": 1
+	},
+	{
+		"items": { "jExo:Spring": 5, "Cloud in a Bottle":1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
+	}]
+}

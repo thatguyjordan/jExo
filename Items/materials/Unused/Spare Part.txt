@@ -1,0 +1,18 @@
+{
+	"displayName": "Spare Part",
+	"size": [20,16],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Obtained from recycling Exo Armour",
+	
+	"recipes":
+	[{
+		"items": { "Dirt": 1}, 
+		"creates": 1
+	}]
+}

@@ -1,0 +1,59 @@
+{
+	"displayName": "Exo Greaves",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 1,		
+	"tooltip": "Simple Plating, Movement Speed, Double Jump, No Falling Damage, Water Walking",
+	"defense": 0,	
+	"armorLegs": true,
+	"setName": "exo",
+	"texture": "Items/greaves/Exo Greaves",
+	"textureLegs": "Items/greaves/Exo Greaves_Legs",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Exo Greaves p_sp e_ms e_dj e_fd": 1, "jExo:Liquid Solidifyer": 1 },
+		"tiles": [ "jExo:Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Greaves p_sp e_ms e_dj e_fd": 1, "jExo:Liquid Solidifyer": 1 },
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Greaves p_sp e_ms e_dj e_ww": 1, "jExo:Shock Absorbers": 1 },
+		"tiles": [ "jExo:Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Greaves p_sp e_ms e_dj e_ww": 1, "jExo:Shock Absorbers": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Greaves p_sp e_ms e_ww e_fd": 1, "jExo:Repulsor": 1 },
+		"tiles": [ "jExo:Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Greaves p_sp e_ms e_ww e_fd": 1, "jExo:Repulsor": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Greaves p_sp e_dj e_ww e_jb": 1, "jExo:Motor": 1 },
+		"tiles": [ "jExo:Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Greaves p_sp e_dj e_ww e_jb": 1, "jExo:Motor": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 1	
+	}]		
+}

@@ -1,0 +1,30 @@
+{
+	"displayName": "Exo Headgear",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 1,		
+	"tooltip": "Advanced Plating, Spelunker, Magic Upgrade, Mana Reduction",
+	"defense": 0,	
+	"armorHead": true,
+	"hairType": 0,
+	"setName": "exo",
+	"texture": "Items/headgear/Exo Headgear",
+	"textureHead": "Items/headgear/Exo Headgear_Head",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Exo Headgear p_ap e_sp e_mu": 1, "jExo:Mana Module": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "jExo:Exo Headgear p_ap e_mu e_mr": 1, "jExo:X-Ray Lenses": 1 }, 
+		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Dirt Block": 1 }, 
+		"creates": 1	
+	}]		
+}

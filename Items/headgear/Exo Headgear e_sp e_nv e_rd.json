@@ -9,6 +9,8 @@
 	"armorHead": true,
 	"hairType": 0,
 	"setName": "exo",
+	"texture": "Items/headgear/Exo Headgear",
+	"textureHead": "Items/headgear/Exo Headgear_Head",
 	
 	"recipes":
 	[{

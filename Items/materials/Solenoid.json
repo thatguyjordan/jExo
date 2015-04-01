@@ -1,0 +1,19 @@
+{
+	"displayName": "Solenoid",
+	"size": [16,18],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "A coil of wire that can manipulate magnetic fields.",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Advanced Alloy": 1, "Copper Ingot": 1 },
+		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"creates": 1
+	}]
+}

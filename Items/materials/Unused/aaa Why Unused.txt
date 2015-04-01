@@ -1,0 +1,12 @@
+Most of these items are:
+Planned items that have no use.
+Items that have unimplemented uses that weren't able to make to release.
+Items that will most likely not have uses, but we'll keep them in this folder just incase we need them.
+
+Why is this in my download?
+Either you downloaded;
+The Beta/Dev Version
+Or
+Someone messed up on release.
+You're looking at the github.
+
