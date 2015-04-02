@@ -18,7 +18,7 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Chestplate p_ns": 1, "jExo:Temperature Regulator": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]
 }

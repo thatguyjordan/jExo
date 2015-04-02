@@ -8,16 +8,18 @@
 	"defense": 0,	
 	"armorLegs": true,
 	"setName": "exo",
+	"texture": "Items/greaves/Exo Greaves",
+	"textureLegs": "Items/greaves/Exo Greaves_Legs",
 	
 	"recipes":
 	[{
 		"items": { "jExo:Exo Greaves": 1, "jExo:Nava Shield": 1 }, 
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves": 1, "jExo:Nava Shield": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }

@@ -13,12 +13,12 @@
 	"recipes":
 	[{
 		"items": { "jExo:Basic Alloy": 20, "Magic Power Potion": 3 },
-		"tiles": [ "jExo:Advanced Exo Modification Table" ],
+		"tiles": [ "Advanced Exo Modification Table" ],
 		"creates": 1
 	},
 	{
 		"items": { "jExo:Basic Alloy": 20, "Magic Power Potion": 3 },
-		"tiles": [ "jExo:Exo Modification Table" ],
+		"tiles": [ "Exo Modification Table" ],
 		"creates": 1
 	}]
 }

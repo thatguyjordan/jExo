@@ -16,7 +16,7 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Headgear": 1, "jExo:Titanium Plate": 1 , "jExo:Magic Module": 1, "jExo:Mana Module": 1, "jExo:Night Lenses": 1}, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }

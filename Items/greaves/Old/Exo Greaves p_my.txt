@@ -1,0 +1,20 @@
+{
+	"displayName": "Exo Greaves",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 1,		
+	"tooltip": "Mythril Plating",
+	"defense": 9,	
+	"armorLegs": true,
+	"texture": "Items/greaves/Exo Greaves",
+	"textureLegs": "Items/greaves/Exo Greaves_Legs",
+	"setName": "exo",
+	
+	"recipes":
+	[{
+		"items": { "jExo:Exo Greaves": 1, "jExo:Mythril Plate": 1 }, 
+		"tiles": [ "Advanced Exo Modification Table" ], 
+		"creates": 1		
+	}]	
+}

@@ -9,7 +9,7 @@
 	"useTime": 10,
 	"autoReuse": true,
 	"useTurn": true,
-	"createTile": "jExo:Advanced Exo Modification Table",
+	"createTile": "Advanced Exo Modification Table",
 	"tooltip": "Modify Exo items with this Advanced table.",
 	"consumable": true,
 	

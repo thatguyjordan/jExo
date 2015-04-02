@@ -13,43 +13,43 @@
 	
 	"recipes":
 	[{
-		"items": { "jExo:Exo Greaves p_ap e_ms e_dj e_jb": 1, "jExo:Liquid Solidifyer": 1 },
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"items": { "jExo:Exo Greaves p_ap e_ms e_dj e_jb": 1, "jExo:Liquid Solidifiyer": 1 },
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
-		"items": { "jExo:Exo Greaves p_ap e_ms e_dj e_jb": 1, "jExo:Liquid Solidifyer": 1 },
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"items": { "jExo:Exo Greaves p_ap e_ms e_dj e_jb": 1, "jExo:Liquid Solidifiyer": 1 },
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves p_ap e_ms e_dj e_ww": 1, "jExo:Spring": 1 },
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves p_ap e_ms e_dj e_ww": 1, "jExo:Spring": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves p_ap e_ms e_jb e_ww": 1, "jExo:Repulsor": 1 },
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves p_ap e_ms e_jb e_ww": 1, "jExo:Repulsor": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves p_ap e_dj e_ww e_jb": 1, "jExo:Motor": 1 },
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves p_ap e_dj e_ww e_jb": 1, "jExo:Motor": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }

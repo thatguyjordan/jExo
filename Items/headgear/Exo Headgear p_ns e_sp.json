@@ -15,7 +15,7 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Headgear p_ns": 1, "jExo:X-Ray Lenses": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }

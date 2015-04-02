@@ -15,7 +15,7 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Headgear p_ns e_mu": 1, "jExo:Mana Module": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }

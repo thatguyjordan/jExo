@@ -15,22 +15,22 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Headgear e_sp": 1, "jExo:Ranged Module": 1 }, 
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Headgear e_sp": 1, "jExo:Ranged Module": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Headgear e_rd": 1, "jExo:X-Ray Lenses": 1 }, 
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Headgear e_rd": 1, "jExo:X-Ray Lenses": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }

@@ -16,12 +16,12 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Headgear p_ad e_nv": 1, "jExo:Melee Module": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Headgear p_ad e_md": 1, "jExo:Night Lenses": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }

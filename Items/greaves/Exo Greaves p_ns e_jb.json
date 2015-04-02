@@ -14,12 +14,12 @@
 	"recipes":
 	[{
 		"items": { "jExo:Exo Greaves p_ns": 1, "jExo:Spring": 1 },
-		"tiles": [ "jExo:Exo Modification Table" ], 
+		"tiles": [ "Exo Modification Table" ], 
 		"creates": 1	
 	},
 	{
 		"items": { "jExo:Exo Greaves p_ns": 1, "jExo:Spring": 1 }, 
-		"tiles": [ "jExo:Advanced Exo Modification Table" ], 
+		"tiles": [ "Advanced Exo Modification Table" ], 
 		"creates": 1	
 	}]	
 }
