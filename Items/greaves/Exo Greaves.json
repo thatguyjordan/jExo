@@ -14,9 +14,5 @@
 		"items": { "jExo:Basic Alloy": 15 }, 
 		"tiles": [ "Anvil" ], 
 		"creates": 1	
-	},
-	{
-		"items": { "Dirt Block": 1 }, 
-		"creates": 1	
-	}]		
+	}]	
 }
