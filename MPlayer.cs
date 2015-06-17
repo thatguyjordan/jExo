@@ -22,23 +22,35 @@ namespace jExo
         public override void MidUpdate()
         {
             bool fullExo = player.armor[0].name.Contains("Exo Headgear") && player.armor[1].name.Contains("Exo Chestplate") && player.armor[2].name.Contains("Exo Greaves");
+            bool fullBasic = player.armor[0].name.Contains("Exo Headgear") && player.armor[1].name.Contains("Exo Chestplate") && player.armor[2].name.Contains("Exo Greaves") && player.armor[0].tooltip.Contains("Basic Plating") && player.armor[1].tooltip.Contains("Basic Plating") && player.armor[2].tooltip.Contains("Basic Plating");
+            bool fullAdv = player.armor[0].name.Contains("Exo Headgear") && player.armor[1].name.Contains("Exo Chestplate") && player.armor[2].name.Contains("Exo Greaves") && player.armor[0].tooltip.Contains("Advanced Plating") && player.armor[1].tooltip.Contains("Advanced Plating") && player.armor[2].tooltip.Contains("Advanced Plating");
+            bool fullNava = player.armor[0].name.Contains("Exo Headgear") && player.armor[1].name.Contains("Exo Chestplate") && player.armor[2].name.Contains("Exo Greaves") && player.armor[0].tooltip.Contains("Nava Shield Plating") && player.armor[1].tooltip.Contains("Nava Shield Plating") && player.armor[2].tooltip.Contains("Nava Shield Plating");
 
-            if (fullExo == true) //&& player.inventory[player.selectedItem].type == ItemDef.byName["jExo:Exo Claw"].type)
+            if (fullExo == true)
             {
                 player.moveSpeed += 0.05f;
                 player.statDefense += 8;
             }
-            if (player.armor[0].name.Contains("Exo Headgear") && player.armor[1].name.Contains("Exo Chestplate") && player.armor[2].name.Contains("Exo Greaves") && player.inventory[player.selectedItem].name.Contains("Exo Claw"))
+            if (fullBasic == true)
+            {
+                player.statDefense += 5;
+            } 
+            if (fullAdv == true)
+            {
+                player.moveSpeed -= 0.1f;
+                player.statDefense += 12;
+            }
+            if (fullNava == true)
+            {
+                player.statDefense += 20;
+            }
+            if (fullExo == true && player.inventory[player.selectedItem].name.Contains("Exo Claw"))
             {
                 player.meleeSpeed += 0.05f;
             }
-            if (player.armor[0].name.Contains("Exo Headgear") && player.armor[1].name.Contains("Exo Chestplate") && player.armor[2].name.Contains("Exo Greaves") && player.inventory[player.selectedItem].name.Contains("Exo Minigun"))
+            if (fullExo == true && player.inventory[player.selectedItem].name.Contains("Exo Minigun"))
             {
                 player.inventory[player.selectedItem].shootSpeed += 0.07f;
-            }
-            if (player.armor[0].tooltip.Contains("Plating") && player.armor[1].tooltip.Contains("Plating") && player.armor[2].tooltip.Contains("Plating"))
-            {
-                player.statDefense += 3;
             }
             if (player.armor[1].tooltip.Contains("Knockback Resistance") && player.armor[1].name.Contains("Exo Chestplate"))
             {
@@ -86,6 +98,12 @@ namespace jExo
                     player.rangedCrit += 15;
                     player.rangedDamage += 0.15f;
                     player.ammoCost75 = true;
+                }  
+                else if (player.armor[0].tooltip.Contains("Advanced Plating"))
+                {
+                    player.rangedCrit += 11;
+                    player.rangedDamage += 0.10f;
+                    player.ammoCost75 = true;
                 }
                 else
                 {
@@ -98,13 +116,14 @@ namespace jExo
             {
                 if (player.armor[0].tooltip.Contains("Nava Shield Plating"))
                 {
-                    player.statManaMax2 += 40;
+                    player.statManaMax2 += 60;
                     player.manaCost -= 0.10f;
                     player.magicCrit += 12;
                     player.magicDamage += 0.18f;
                 }
                 else if (player.armor[0].tooltip.Contains("Advanced Plating"))
                 {
+                    player.statManaMax2 += 40;
                     player.manaCost -= 0.06f;
                     player.magicCrit += 5;
                     player.magicDamage += 0.08f;
@@ -121,13 +140,13 @@ namespace jExo
             {
                 if (player.armor[0].tooltip.Contains("Nava Shield Plating"))
                 {
-                    player.meleeSpeed += 0.08f;
+                    player.meleeSpeed += 0.1f;
                     player.meleeCrit += 15;
                     player.meleeDamage += 0.18f;
                 }
                 else if (player.armor[0].tooltip.Contains("Advanced Plating"))
                 {
-                    player.meleeSpeed += 0.05f;
+                    player.meleeSpeed += 0.06f;
                     player.meleeCrit += 8;
                     player.meleeDamage += 0.10f;
                 }
@@ -164,11 +183,6 @@ namespace jExo
                 player.canRocket = true;
                 player.rocketBoots = 1;
             }
-/*            if (player.armor[1].name.Contains("Exo Chestplate") && Microsoft.Xna.Framework.Input.Keys.K.Down())
-            {
-                int shockwave = ProjDef.byName["jExo:Shockwave"].type;
-                Projectile.NewProjectile(Main.localPlayer.position.X + 3, Main.localPlayer.position.Y + 6, 0, 0, shockwave, 20, 8f, Main.localPlayer.whoAmI);
-            }*/
         }
     }
 }

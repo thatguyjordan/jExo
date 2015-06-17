@@ -3,6 +3,7 @@
     "displayName": "jExo",
     "author": "_jordan",
     "modReferences": ["jLib"],
+    "icon": "Icon",
     "info": "A Terraria mod focusing on upgradable armour and tools.",
     "version": "0.0.0"
 }

@@ -9,14 +9,14 @@ Dart launcher:
  piercing shots
 
 Minigun: 
-x damage but minus accuracy    
-x use speed     
-x increased accuracy     
- elemental upgrade (causes debuffs)          
- chance to not consume ammo            
- crit strike chance              
-x double shots            
- fragmentation shots              
+x damage but minus accuracy
+x use speed
+x increased accuracy
+ elemental upgrade (causes debuffs)
+ chance to not consume ammo
+ crit strike chance
+x double shots
+ fragmentation shots
 x burst fire but remove auto reuse 
  dam and speed               
  dam and consume ammo             
