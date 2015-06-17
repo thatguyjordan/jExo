@@ -42,7 +42,7 @@ namespace jExo
             }
             if (player.armor[1].tooltip.Contains("Knockback Resistance") && player.armor[1].name.Contains("Exo Chestplate"))
             {
-                player.knockbackResist = 1f;
+                player.knockbackResist = 0f;
             }
             if (player.armor[2].tooltip.Contains("Water Walking") && player.armor[2].name.Contains("Exo Greaves"))
             {
@@ -164,6 +164,11 @@ namespace jExo
                 player.canRocket = true;
                 player.rocketBoots = 1;
             }
+/*            if (player.armor[1].name.Contains("Exo Chestplate") && Microsoft.Xna.Framework.Input.Keys.K.Down())
+            {
+                int shockwave = ProjDef.byName["jExo:Shockwave"].type;
+                Projectile.NewProjectile(Main.localPlayer.position.X + 3, Main.localPlayer.position.Y + 6, 0, 0, shockwave, 20, 8f, Main.localPlayer.whoAmI);
+            }*/
         }
     }
 }
