@@ -9,10 +9,10 @@ Dart launcher:
  piercing shots
 
 Minigun: 
-x damage but minus accuracy
-x use speed
-x increased accuracy
- elemental upgrade (causes debuffs)
+x damage but minus accuracy: Molten Flint
+x use speed: Motor?
+x increased accuracy: Aligned Chamber
+ elemental upgrade (causes debuffs)              
  chance to not consume ammo
  crit strike chance
 x double shots

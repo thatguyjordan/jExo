@@ -1,0 +1,24 @@
+{
+	"displayName": "Molten Flint",
+	"size": [24,24],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "A powerful varient of flint that allows for very heavy firing, at the cost of accuracy.",
+	
+	"recipes":
+	[{
+		"items": { "Silt": 1, "Hellstone Ore":10, "Obsidian":5 }, 
+		"tiles": [ "Exo Modification Table" ],
+		"creates": 1
+	},
+	{
+		"items": { "Silt": 1, "Hellstone Ore":5, "Obsidian":5 }, 
+		"tiles": [ "Advanced Exo Modification Table" ],
+		"creates": 1
+	}]
+}

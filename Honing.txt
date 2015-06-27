@@ -1,0 +1,25 @@
+Honing is a system at the endgame of jExo to heavily improve your weapons and armour, making them viable in the endgame, and allowing a final bit of customization to you exo equipment.
+
+Honed equipment can not be recycled, cannot have additional upgrades added, and cannot be honed again. When honing you have a choice of three different things, improving certain aspects of that piece of equipment.
+
+Armour:
+
+Hone for 
+Defence (Improving the users overall defence, and improving upgrades that are considered to be defencive (Knockback res, Lava charm, etc.))
+
+Offence (Increases the users overall attack power, as well as improving upgrades that are considered to be offencive (Improved magic, ranged, or melee damage, melee speed, aggro count, etc.)) 
+
+Utility (Improves the overall defence and attack of the user slightly, as well as buffing up upgrades that are more utility (Number of jumps, spelunker, night vision, mana reduction, etc.))
+
+Minigun:
+
+Hone for
+
+Frenzy (For those who like a rambo playstyle, heavily decreases accuracy, however increases Shot speed, chance to not consume ammo, slightly decreases damage.)
+
+Accuracy (More like the sniper rifle, Heavily decreases shot speed, but increases damage, accuracy and crit chance)
+
+Special (Increases everything slightly, as well as improving the upgrades that are strange (Multiple shot, frag shot, Etemental, etc))
+
+Not sure if this goes against the plans you had previously for improving upgrades. But whatever, I just kind of made this up on the spot
+1.3 is out in like a few days so it doesn't even matter for a while

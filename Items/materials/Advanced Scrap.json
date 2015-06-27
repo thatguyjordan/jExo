@@ -1,0 +1,12 @@
+{
+	"displayName": "Advanced Scrap",
+	"size": [16,16],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Scrap recovered from removing installed upgrades, can be reprocessed into alloys."
+}
